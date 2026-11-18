@@ -1,0 +1,12 @@
+test: 1 most important topic 
+max- 50 words 
+summary max 10 words 
+
+Summary: React is single page application.
+
+React is a JavaScript library used for building 
+interactive user interfaces. React makes use of component-based architecture 
+for creating page elements. 
+React uses Global state management system to handle and share data.
+React makes use of JSX for writing HTML-like code in JavaScript, 
+Virtual DOM for speedy updates, props for passing data.

@@ -1,0 +1,22 @@
+test 2:
+2 most important topics:
+min 25 max 50 words 
+summary/caption/
+keywords min 2 max 5 words 
+ANS:
+
+
+ React
+
+SUMMARY: React Router is a system that facilitates navigation among multiple pages available in a React application without reloading the entire webpage.
+
+KEYWORD: SPA, Navigation, Routing, Components
+
+
+
+
+
+Async/Await & APIs:
+SUMMARY: Async/Await simplifies handling asynchronous operations in JavaScript. APIs allow applications to communicate with servers, fetch external data and process responses efficiently.
+
+KEYWORD: Promise object, async, wait 
